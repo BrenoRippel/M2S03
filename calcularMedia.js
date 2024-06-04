@@ -11,6 +11,3 @@ function calcularMedia(notas) {
 
     return media;
 }
-
-let media = calcularMedia(notas);
-console.log("A média das notas é: " + media);
