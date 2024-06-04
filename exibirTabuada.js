@@ -1,0 +1,7 @@
+function exibirTabuada() {
+    let numero = 8;
+    
+    for (let i = 0; i <= 10; i++) {
+        document.write(numero + " x " + i + " = " + (numero * i) + "<br>");
+    }
+}
